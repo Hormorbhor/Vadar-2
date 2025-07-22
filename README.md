@@ -61,7 +61,7 @@ The **Recall Agent** is powered by Groq’s `llama3-70b-8192`. Its instructions 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/vadar-2.0.git
+git clone https://github.com/hormorbhor/vadar-2.0.git
 cd vadar-2.0
 ```
 
@@ -193,7 +193,7 @@ MIT License. You are free to modify, fork, and contribute.
 
 ## 📬 Contact / Contributions
 
-For feedback or contributions, open a pull request or DM me on Twitter: [@yourhandle](https://twitter.com/yourhandle)
+For feedback or contributions, open a pull request or DM me on Twitter: [@yourhandle](https://twitter.com/undi_isputed)
 
 ---
 
